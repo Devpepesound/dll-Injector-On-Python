@@ -4,5 +4,6 @@ pip install psutil
 pip install requests
 pip install pyinstaller
 
-Как Сбилдить? Сделай сам, найди сам, по запросу в Гугле pyinstaller build
+Ну и Соответственно Установите Питон
 
+Как Сбилдить в Exe? Сделай сам, найди сам, по запросу в Гугле pyinstaller build
